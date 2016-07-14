@@ -1,9 +1,9 @@
-Artist Explorer
-===============
+Name That Tune
+==============
 
-See Artist Explorer at [artistexplorer.spotify.com](https://artistexplorer.spotify.com/)
+Forked from Artist Explorer -- fsahin/artist-explorer ([artistexplorer.spotify.com](https://artistexplorer.spotify.com/))
 
-Artists Explorer is a tool that helps serious music enthusiasts explore artist relationships and discover new music. Start from any artist and quickly navigate through trees of related artists, previewing their music as you go.
+Name That Tune is a tool that helps you improve your "Name That Tune" skills.
 
 The app pulls related artist information from Spotify and additional data (genre, biography) from the Echo Nest. Have a look at the documentation of these APIs at:
 
@@ -30,7 +30,6 @@ python -m SimpleHTTPServer
 
 App
 ===
-<img src="./img/ScreenShot.png" width="750px"/>
 
 Consumed Libraries:
 --------------
@@ -39,4 +38,3 @@ Consumed Libraries:
 * [Spotify Web API Wrapper](https://github.com/JMPerez/spotify-web-api-js)
 * [geoplugin](http://www.geoplugin.com/)
 * [freegeoip](https://freegeoip.net)
-
